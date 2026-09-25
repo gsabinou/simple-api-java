@@ -1,6 +1,6 @@
 # Simple API Java
 
-Aplicação API feita com Java
+Aplicação API 
 
 ## Pré-requisitos
 
